@@ -1,0 +1,17 @@
+#Body{
+    background-color: rgb(14, 13, 4);
+    padding: 40px;
+    display: inline-block;
+}
+body {
+    background-image: url("../images/assist1.jpg");
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+}
+
+#view{
+    padding: 40px;
+    display: inline-block;
+    height: 70%;
+    width: 70%;
+}
